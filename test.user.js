@@ -2,7 +2,7 @@
 // @name		Auto Updating Test
 // @grant		none
 // @include		*espn*
-// @version		0.1
+// @version		0.2
 // ==/UserScript==
 
-alert('This is a GreaseMonkey Script running on espn.com');
+console.log('This is a less annoying GreaseMonkey Script running on espn.com');
